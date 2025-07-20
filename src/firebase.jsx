@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAbdIzSSxV56sC3bZuXz1NtCeKP0ubJfGA",
+  apiKey: "your API key................",
   authDomain: "yourapp.firebaseapp.com",
   projectId: "ecommerce-admin-dashboar-92eefyourapp",
   storageBucket: "yourapp.appspot.com",
